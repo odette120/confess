@@ -1,13 +1,13 @@
 const fs = require('fs')
 
 global.fotomenfess = fs.readFileSync("./menfess.jpg")
-global.owner = ["62887435047326"]
+global.owner = ["62895366943070"]
 
 global.help = {
 Menu(pushname){
   return `Halo ${pushname}
 
-Saya adalah bot WhatsApp confess 👋 ketik .confess untuk memulai chat.
+Perkenalkan Saya Irma WhatsApp Bot Can anyone Irma Can Help? ketik .confess untuk memulai chat.
 `
 }
 }
